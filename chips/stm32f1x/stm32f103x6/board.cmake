@@ -1,0 +1,6 @@
+#board.cmake
+set(RAM_ORIGIN   "0x20000000")
+set(RAM_LENGTH   "10K")
+
+set(FLASH_ORIGIN "0x08000000")
+set(FLASH_LENGTH "32K")

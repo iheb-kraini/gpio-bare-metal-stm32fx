@@ -1,3 +1,6 @@
 build*/
 .cache/
-*txt
+
+.vscode
+most_used_commands.txt
+project_structure.txt

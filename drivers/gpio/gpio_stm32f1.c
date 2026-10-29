@@ -1,5 +1,5 @@
 #include "gpio.h"
-#include "stm32f103x6.h"
+#include "stm32f1.h"
 #include <stddef.h>
 #include <stdint.h>
 int gpio_enable(gpio_port_t port) {

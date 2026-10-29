@@ -1,7 +1,7 @@
 #include "gpio.h"
 
 static void sleep() {
-  for (uint16_t i = 0; i < 1000; i++) {
+  for (uint16_t i = 0; i < 60000; i++) {
   }
 }
 

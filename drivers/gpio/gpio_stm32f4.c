@@ -1,5 +1,5 @@
 #include "gpio.h"
-#include "stm32f401cb.h"
+#include "stm32f4.h"
 #include <stddef.h>
 #include <stdint.h>
 
